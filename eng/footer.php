@@ -26,7 +26,7 @@
 		</div>
 		<div class="col-md-3">
 			<h4>Developer</h4>
-			&copy; 2014 <a href="http://ogpe.nung.edu.ua">ogpe.nung.edu.ua</a><br/>Igor Lyutak
+			&copy; 2014 <a href="http://ogpe.nung.edu.ua">ogpe.nung.edu.ua</a><br/><a href="http://lyutak.com/">Igor Lyutak</a>
 		</div>
 	</div>
 	<div class="row">
