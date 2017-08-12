@@ -1,0 +1,109 @@
+.ifTB {
+	border: 1px;
+	border-color: #1c81bf;
+	border-style: solid;
+}
+
+.ifTH { 
+	background-color: #1c81bf;
+	color: #FFFFFF;
+}
+
+.ifTD {
+	border-right: 0;
+	border-bottom: 1px;
+	border-left: 1px;
+	border-color: #1c81bf;
+	border-style: solid;
+}
+
+.ifTDB {
+	border-right: 0;
+	border-bottom: 3px;
+	border-left: 1px;
+	border-color: #1c81bf;
+	border-style: solid;
+}
+
+.ifTBB { 
+	border: 1px;
+	border-top: 3px;
+	border-color: #1c81bf;
+	border-style: solid;
+}
+
+.elemBorder {
+	border: 1px;
+	border-color: #1c81bf;
+	border-style: solid;
+}
+
+
+.elemFill {
+	border: 1px;
+	border-color: #1c81bf;
+	border-style: solid;
+	background-color: #1c81bf;
+	color: #FFFFFF;
+}
+
+.elemFillsquare {
+	border: 1px;
+	border-color: #1c81bf;
+	border-style: solid;
+	background-color: #1c81bf;
+	color: #FFFFFF;
+	border-bottom-right-radius: 0;
+	border-bottom-left-radius: 0;
+}
+
+.elemBordersquare {
+	border: 1px;
+	border-color: #1c81bf;
+	border-style: solid;
+	border-top-left-radius: 0;
+	border-top-right-radius: 0;
+}
+
+.horizontalLine {
+	border-top: 1px solid #1c81bf;
+}
+
+
+/* references page */
+
+.thumbHeadRef {
+	border-bottom: 4px;
+	border-right: 1px;
+	border-left: 1px;
+	border-top: 1px;
+	border-color: #1c81bf;
+	border-style: solid;
+	border-bottom-left-radius: 0;
+	border-bottom-right-radius: 0;
+}
+
+.thumbBodyRef {
+	border-bottom: 1px;
+	border-right: 1px;
+	border-left: 1px;
+	border-top: 0;
+	border-style: dotted;
+	border-top-left-radius: 0;
+	border-top-right-radius: 0;
+}
+
+.phead {
+	border-bottom: 4px;
+	border-right: 0;
+	border-left: 0;
+	border-top: 0;
+	border-style: solid;
+	border-color: #1c81bf;
+}
+
+.ifTB {
+	border: 1px;
+	border-color: #1c81bf;
+	border-style: solid;
+}
